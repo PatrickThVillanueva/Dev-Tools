@@ -12,3 +12,10 @@ Keypirinha packages:
 - PackageControl (Like NuGet)
 - SystemCommands (shutdown etc)
 - WindowsApps (not sure)
+
+
+Extensions to create!
+- Folder-bookmarks, to get used to python and the plugin tool
+    Setup in custom txt-db, translations of folders to open in explorer
+- CRON translator
+- GIPHY/Meme tool
