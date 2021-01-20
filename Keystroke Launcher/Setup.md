@@ -12,16 +12,17 @@ Keypirinha packages:
 - PackageControl (Like NuGet)
 - SystemCommands (shutdown etc)
 - WindowsApps (not sure)
-
+- MyIP
+- Counter (my own Git)
 
 Extensions to create!
 - GIPHY searcher
-    WIP. Needs to clear cache, and not have so many errors 😅 (Might be speed issue)
+    WIP. Needs to clear cache, and not have so many errors 😅
 - Folder-bookmarks, to get used to python and the plugin tool
     Setup in custom txt-db, translations of folders to open in explorer
 - Meme creator (if possible)
 - Spotify controller
-- Letter/Words count
+- Password generator
 
 Know how for KP:
 - Indlæs fra .ini-fil:
