@@ -1,4 +1,5 @@
-if (Test-Path $PROFILE -eq $false)
+$path = $PROFILE
+if (Test-Path $path -eq $false)
 {
     New-item –type file –force $profile
 }
