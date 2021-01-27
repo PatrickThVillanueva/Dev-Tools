@@ -1,23 +1,5 @@
-https://keypirinha.com/download.html
-
-Import settings in this folder. Change the paths where necessary
-Keypirinha packages:
-- ColorPicker
-- Counter (my own Git)
-- Cvt (Conversion of data)
-- Dictionary
-- EasySearch
-- Emojii
-- FakerData (fake data for names etc)
-- giphy
-- HeidiSQL
-- Lipsum (Lorem ipsum)
-- MyIP
-- PackageControl (Like NuGet)
+Keypirinha packages to fix:
 - Snippets
-- SystemCommands (shutdown etc)
-- Todo markdown
-- WindowsApps (not sure)
 
 Extensions to create!
 - GIPHY searcher
@@ -29,11 +11,11 @@ Extensions to create!
 - Password generator
 
 Know how for KP:
-- Indlæs fra .ini-fil:
+- Read from .ini-file:
  self.load_settings()
- Indlæser helloworld.ini
+ Reads helloworld.ini
  settings.get_bool("keep_history", "main", self.DEFAULT_KEEP_HISTORY)
- under "main" i helloworld.ini, find værdien "keep_history" og skriv på self.DEFAULT_KEEP_HISTORY
+ under "main" in helloworld.ini, find the value "keep_history" and overwrite self.DEFAULT_KEEP_HISTORY
 
 - on_start(self):
   called after install
