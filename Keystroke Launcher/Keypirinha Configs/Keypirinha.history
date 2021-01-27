@@ -1,0 +1,270 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.26 (e037f62)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2021-01-27T13:22:10+0100",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 12608062516981262760,
+         "label" : "Spectra API Dev (Bookmark)",
+         "time" : "2021-01-27T12:16:44+0100"
+      },
+      {
+         "action" : null,
+         "item" : 6055913746621827488,
+         "label" : "Todo",
+         "time" : "2021-01-27T12:36:41+0100"
+      },
+      {
+         "action" : null,
+         "item" : 2803330055637970635,
+         "label" : "Google",
+         "time" : "2021-01-27T12:48:29+0100"
+      },
+      {
+         "action" : null,
+         "item" : 1972651255400930010,
+         "label" : "Keypirinha: Configure Package: EasySearch",
+         "time" : "2021-01-27T13:10:32+0100"
+      },
+      {
+         "action" : null,
+         "item" : 7110686381277915529,
+         "label" : "Keypirinha: Refresh Catalog: EasySearch",
+         "time" : "2021-01-27T13:11:43+0100"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2021-01-27T13:13:03+0100"
+      },
+      {
+         "action" : null,
+         "item" : 11955276868204494730,
+         "label" : "Keypirinha: Refresh Catalog",
+         "time" : "2021-01-27T13:14:21+0100"
+      },
+      {
+         "action" : null,
+         "item" : 8906703201727957017,
+         "label" : "Keypirinha: Configure Package: Apps",
+         "time" : "2021-01-27T13:14:36+0100"
+      },
+      {
+         "action" : null,
+         "item" : 17050721657649948997,
+         "label" : "Keypirinha: Refresh Catalog: Apps",
+         "time" : "2021-01-27T13:15:48+0100"
+      },
+      {
+         "action" : null,
+         "item" : 9589722707590404009,
+         "label" : "Ping",
+         "time" : "2021-01-27T13:15:53+0100"
+      },
+      {
+         "action" : null,
+         "item" : 11955276868204494730,
+         "label" : "Keypirinha: Refresh Catalog",
+         "time" : "2021-01-27T13:17:00+0100"
+      },
+      {
+         "action" : null,
+         "item" : 11955276868204494730,
+         "label" : "Keypirinha: Refresh Catalog",
+         "time" : "2021-01-27T13:17:13+0100"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2021-01-27T13:18:56+0100"
+      },
+      {
+         "action" : null,
+         "item" : 1972651255400930010,
+         "label" : "Keypirinha: Configure Package: EasySearch",
+         "time" : "2021-01-27T13:21:33+0100"
+      },
+      {
+         "action" : null,
+         "item" : 7110686381277915529,
+         "label" : "Keypirinha: Refresh Catalog: EasySearch",
+         "time" : "2021-01-27T13:22:10+0100"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "required",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 2803330055637970635,
+            "label" : "Google",
+            "loop_on_suggest" : false,
+            "plugin" : "WebSuggest.WebSuggest",
+            "short_desc" : "Suggest via Google (default action: browse)",
+            "target" : "profile=%27google%27"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 7544475573990267934,
+            "label" : "Keypirinha: Configure",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Edit Keypirinha's configuration file(s)",
+            "target" : "app_config"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 8906703201727957017,
+            "label" : "Keypirinha: Configure Package: Apps",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Configure Package \"Apps\"",
+            "target" : "pack_config Apps"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 1972651255400930010,
+            "label" : "Keypirinha: Configure Package: EasySearch",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Configure Package \"EasySearch\"",
+            "target" : "pack_config EasySearch"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 11955276868204494730,
+            "label" : "Keypirinha: Refresh Catalog",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Ask all plugins to refresh their catalog",
+            "target" : "refresh_catalog"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 17050721657649948997,
+            "label" : "Keypirinha: Refresh Catalog: Apps",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Refresh the Catalog of Package \"Apps\"",
+            "target" : "pack_refresh Apps"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 7110686381277915529,
+            "label" : "Keypirinha: Refresh Catalog: EasySearch",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Refresh the Catalog of Package \"EasySearch\"",
+            "target" : "pack_refresh EasySearch"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 9589722707590404009,
+            "label" : "Ping",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: cmd /K ping -t google.com",
+            "target" : "ping"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
+            "id" : 12608062516981262760,
+            "label" : "Spectra API Dev (Bookmark)",
+            "loop_on_suggest" : false,
+            "plugin" : "Bookmarks.Bookmarks",
+            "short_desc" : "",
+            "target" : "https://obdev-spectraapi.spectrasoftware.eu/swagger/ui/index"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "keepall",
+            "id" : 6055913746621827488,
+            "label" : "Todo",
+            "loop_on_suggest" : false,
+            "plugin" : "todo-markdown.todo_markdown",
+            "short_desc" : "Manages todos",
+            "target" : "todo"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 17050721657649948997 ],
+            "search" : "apps"
+         },
+         {
+            "items" : [ 7544475573990267934, 1972651255400930010 ],
+            "search" : "confi"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "config"
+         },
+         {
+            "items" : [ 8906703201727957017 ],
+            "search" : "configre"
+         },
+         {
+            "items" : [ 1972651255400930010 ],
+            "search" : "eas"
+         },
+         {
+            "items" : [ 2803330055637970635 ],
+            "search" : "g"
+         },
+         {
+            "items" : [ 9589722707590404009 ],
+            "search" : "ping"
+         },
+         {
+            "items" : [ 11955276868204494730 ],
+            "search" : "ref"
+         },
+         {
+            "items" : [ 11955276868204494730 ],
+            "search" : "refr"
+         },
+         {
+            "items" : [ 11955276868204494730 ],
+            "search" : "refre"
+         },
+         {
+            "items" : [ 7110686381277915529 ],
+            "search" : "refre ea"
+         },
+         {
+            "items" : [ 7110686381277915529 ],
+            "search" : "refre eas"
+         },
+         {
+            "items" : [ 12608062516981262760 ],
+            "search" : "spec"
+         }
+      ]
+   }
+}
