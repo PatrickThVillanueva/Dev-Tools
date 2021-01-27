@@ -3,18 +3,21 @@ https://keypirinha.com/download.html
 Import settings in this folder. Change the paths where necessary
 Keypirinha packages:
 - ColorPicker
+- Counter (my own Git)
 - Cvt (Conversion of data)
 - Dictionary
 - EasySearch
 - Emojii
 - FakerData (fake data for names etc)
+- giphy
+- HeidiSQL
 - Lipsum (Lorem ipsum)
-- PackageControl (Like NuGet)
-- SystemCommands (shutdown etc)
-- WindowsApps (not sure)
 - MyIP
+- PackageControl (Like NuGet)
+- Snippets
+- SystemCommands (shutdown etc)
 - Todo markdown
-- Counter (my own Git)
+- WindowsApps (not sure)
 
 Extensions to create!
 - GIPHY searcher
