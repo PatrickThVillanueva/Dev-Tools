@@ -22,12 +22,6 @@ New-Alias -Name gb -Value Get-GitBranch
 function Get-GitBranchRemote { & git branch -r }
 New-Alias -Name gbr -Value Get-GitBranchRemote
 
-function Go-ToDev { & cd C:\Dev }
-New-Alias -Name 'cddev' -Value Go-ToDev
-
-function Go-ToSpectraApi { & cd C:\Dev\Spectra\SpectraAPI }
-New-Alias -Name 'cdapi' -Value Go-ToSpectraApi 
-
 New-Alias -Name staging -Value develop
 
 function Make-Directory { New-Item -ItemType "Directory" -Name "$args" }
