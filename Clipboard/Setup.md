@@ -1,1 +1,0 @@
-Visit https://bluemars.org/clipx/, download and install

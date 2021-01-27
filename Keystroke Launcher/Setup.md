@@ -13,6 +13,7 @@ Keypirinha packages:
 - SystemCommands (shutdown etc)
 - WindowsApps (not sure)
 - MyIP
+- Todo markdown
 - Counter (my own Git)
 
 Extensions to create!
