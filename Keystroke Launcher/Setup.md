@@ -1,14 +1,8 @@
-Keypirinha packages to fix:
-- Snippets
-
 Extensions to create!
 - GIPHY searcher
     WIP. Needs to clear cache, and not have so many errors 😅
-- Folder-bookmarks, to get used to python and the plugin tool
-    Setup in custom txt-db, translations of folders to open in explorer
 - Meme creator (if possible)
 - Spotify controller
-- Password generator
 
 Know how for KP:
 - Read from .ini-file:
@@ -28,7 +22,7 @@ Know how for KP:
             label="HelloWorld", <-- the label to show
             short_desc="Hello World", <-- the description
             target="hello", <-- what to write
-            args_hint=kp.ItemArgsHint.REQUIRED,
+            args_hint=kp.ItemArgsHint.REQUIRED, <-- if arguments are required. IE: additional input is required
             hit_hint=kp.ItemHitHint.NOARGS
         )])
 
