@@ -1,8 +1,12 @@
 Extensions to create!
 - GIPHY searcher
-    WIP. Needs to clear cache, and not have so many errors 😅
+    WIP. Needs to copy the animated GIF
+- Spotify controller (https://alfred-spotify-mini-player.com/)
+- Evernote
+- LastPass (https://github.com/stuartcryan/lastpass-alfred-workflow)
+- Reddit (https://github.com/deanishe/alfred-reddit)
+- Timezones (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Meme creator (if possible)
-- Spotify controller
 
 Know how for KP:
 - Read from .ini-file:
