@@ -1,4 +1,6 @@
 GitFlow
-File Icons
-Add New File
+File Icons https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MadsKristensen/vsextensions/FileIcons/2.7.235/vspackage
+Add New File https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MadsKristensen/vsextensions/AddNewFile/3.5.150/vspackage
 Power Commands
+VS Color Output https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MikeWard-AnnArbor/vsextensions/VSColorOutput/2.73/vspackage
+Glyphfriend https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RionWilliams/vsextensions/Glyphfriend2017/2.1.0.2/vspackage

@@ -3,6 +3,7 @@ Extensions to create!
     WIP. Needs to copy the animated GIF
 - Spotify controller (https://alfred-spotify-mini-player.com/)
 - Evernote
+- Todoist
 - LastPass (https://github.com/stuartcryan/lastpass-alfred-workflow)
 - Reddit (https://github.com/deanishe/alfred-reddit)
 - Timezones (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
