@@ -15,6 +15,6 @@ if ([string]::IsNullOrWhiteSpace($chocolateyAppList) -eq $false){
     foreach ($app in $appsToInstall)
     {
         Write-Host "Installing $app"
-        & choco install $app /y
+        & choco upgrade $app /a
     }
 }
