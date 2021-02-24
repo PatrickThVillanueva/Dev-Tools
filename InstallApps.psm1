@@ -1,4 +1,4 @@
-$chocolateyAppList = "microsoft-windows-terminal,googlechrome,clipx,greenshot,keypirinha,postman,spotify,dotnetcore-sdk,dotnetcore-windowshosting,visualstudio2019professional"
+$chocolateyAppList = "microsoft-windows-terminal,googlechrome,clipx,greenshot,keypirinha,postman,spotify,dotnetcore-sdk,dotnetcore-windowshosting,visualstudio2019professional,vscode"
 
 try{
         choco config get cacheLocation
@@ -15,6 +15,6 @@ if ([string]::IsNullOrWhiteSpace($chocolateyAppList) -eq $false){
     foreach ($app in $appsToInstall)
     {
         Write-Host "Installing $app"
-        & choco install $app /y
+        & choco upgrade $app /a
     }
 }
