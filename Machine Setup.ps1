@@ -1,4 +1,5 @@
-#Import-Module .\InstallApps.psm1
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Import-Module .\InstallApps.psm1
 Import-Module .\SetupPowerShellProfile.psm1
 Import-Module .\KeypirinhaConfigs.psm1
 

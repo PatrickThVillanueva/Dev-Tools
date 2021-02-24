@@ -5,8 +5,9 @@ This automates the installation of a clean Windows machine, personalized to myse
 
 ## Usage
 
-1. Update "Machine Setup.ps1", "InstallApps.psm1" or "SetupPowerShellProfile.ps1" if necessary.
-2. Run "Machine Setup.ps1" as an admin.
+1. Run: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+2. Update "Machine Setup.ps1", "InstallApps.psm1" or "SetupPowerShellProfile.ps1" if necessary.
+3. Run "Machine Setup.ps1" as an admin.
 
 ## Change Log
 
