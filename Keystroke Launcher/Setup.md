@@ -1,6 +1,7 @@
 Extensions to create!
 - GIPHY searcher
     WIP. Needs to copy the animated GIF
+- Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Spotify controller (https://alfred-spotify-mini-player.com/)
 - Chocolatey
 - Evernote
@@ -12,7 +13,6 @@ Extensions to create!
     Microsoft?
 - LastPass (https://github.com/stuartcryan/lastpass-alfred-workflow)
 - Reddit (https://github.com/deanishe/alfred-reddit)
-- Timezones (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Meme creator (if possible)
 
 Know how for KP:
