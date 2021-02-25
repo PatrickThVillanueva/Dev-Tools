@@ -1,6 +1,8 @@
 Extensions to create!
 - GIPHY searcher
     WIP. Needs to copy the animated GIF
+- Number-reader
+    ie: 1.000.000.000 -> én milliard
 - Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Spotify controller (https://alfred-spotify-mini-player.com/)
 - Chocolatey
