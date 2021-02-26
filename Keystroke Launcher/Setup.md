@@ -1,20 +1,14 @@
 Extensions to create!
 - GIPHY searcher
     WIP. Needs to copy the animated GIF
-- Number-reader
-    ie: 1.000.000.000 -> én milliard
 - Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Spotify controller (https://alfred-spotify-mini-player.com/)
+- Reddit (https://github.com/deanishe/alfred-reddit)
 - Chocolatey
 - Evernote
     Read notes
     Add notes
-- To do list
-    Get list of to-dos without arguments
-    Save/search todo with arguments
-    Microsoft?
 - LastPass (https://github.com/stuartcryan/lastpass-alfred-workflow)
-- Reddit (https://github.com/deanishe/alfred-reddit)
 - Meme creator (if possible)
 
 Know how for KP:
