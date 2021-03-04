@@ -3,7 +3,6 @@ Extensions to create!
     WIP. Needs to copy the animated GIF
 - Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
 - Spotify controller (https://alfred-spotify-mini-player.com/)
-- LastPass/Bitwarden (https://github.com/stuartcryan/lastpass-alfred-workflow)
 - Evernote
 - Meme creator (if possible)
 
