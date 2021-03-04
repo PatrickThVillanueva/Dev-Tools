@@ -1,0 +1,230 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.26 (e037f62)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2021-03-04T12:19:38+0100",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 4832091700890242902,
+         "label" : "Converter",
+         "time" : "2021-03-04T11:51:26+0100"
+      },
+      {
+         "action" : null,
+         "item" : 18168495158365668489,
+         "label" : "Keypirinha: Console",
+         "time" : "2021-03-04T11:51:31+0100"
+      },
+      {
+         "action" : null,
+         "item" : 799184153397335247,
+         "label" : "Keypirinha: Refresh Catalog: reddit",
+         "time" : "2021-03-04T11:52:07+0100"
+      },
+      {
+         "action" : null,
+         "item" : 799184153397335247,
+         "label" : "Keypirinha: Refresh Catalog: reddit",
+         "time" : "2021-03-04T11:52:35+0100"
+      },
+      {
+         "action" : null,
+         "item" : 18168495158365668489,
+         "label" : "Keypirinha: Console",
+         "time" : "2021-03-04T11:52:38+0100"
+      },
+      {
+         "action" : null,
+         "item" : 10668204258612926989,
+         "label" : "PackageControl: Update Repository List",
+         "time" : "2021-03-04T12:10:14+0100"
+      },
+      {
+         "action" : null,
+         "item" : 6227540074285499569,
+         "label" : "Keypirinha: Configure Package: reddit",
+         "time" : "2021-03-04T12:10:40+0100"
+      },
+      {
+         "action" : null,
+         "item" : 799184153397335247,
+         "label" : "Keypirinha: Refresh Catalog: reddit",
+         "time" : "2021-03-04T12:14:55+0100"
+      },
+      {
+         "action" : null,
+         "item" : 11776165657341157664,
+         "label" : "r/ProgrammerHumor",
+         "time" : "2021-03-04T12:15:33+0100"
+      },
+      {
+         "action" : null,
+         "item" : 16051236832018442590,
+         "label" : "r/Denmark",
+         "time" : "2021-03-04T12:15:49+0100"
+      },
+      {
+         "action" : null,
+         "item" : 10403129759277159357,
+         "label" : "r/smashbros",
+         "time" : "2021-03-04T12:17:29+0100"
+      },
+      {
+         "action" : null,
+         "item" : 10403129759277159357,
+         "label" : "r/smashbros",
+         "time" : "2021-03-04T12:17:53+0100"
+      },
+      {
+         "action" : null,
+         "item" : 10403129759277159357,
+         "label" : "r/smashbros",
+         "time" : "2021-03-04T12:19:03+0100"
+      },
+      {
+         "action" : null,
+         "item" : 17235822082367308404,
+         "label" : "r/",
+         "time" : "2021-03-04T12:19:38+0100"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 4832091700890242902,
+            "label" : "Converter",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\ComponentOne Studio",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ComponentOne Studio\\Converter.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 6227540074285499569,
+            "label" : "Keypirinha: Configure Package: reddit",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Configure Package \"reddit\"",
+            "target" : "pack_config reddit"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 18168495158365668489,
+            "label" : "Keypirinha: Console",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Show Keypirinha's console window",
+            "target" : "console"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 799184153397335247,
+            "label" : "Keypirinha: Refresh Catalog: reddit",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Refresh the Catalog of Package \"reddit\"",
+            "target" : "pack_refresh reddit"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 10668204258612926989,
+            "label" : "PackageControl: Update Repository List",
+            "loop_on_suggest" : false,
+            "plugin" : "PackageControl.PackageControl",
+            "short_desc" : "Updates the list of packages from the repository",
+            "target" : "update_repo"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 17235822082367308404,
+            "label" : "r/",
+            "loop_on_suggest" : false,
+            "plugin" : "reddit.reddit",
+            "short_desc" : "Search subreddits",
+            "target" : "search_subreddit"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 16051236832018442590,
+            "label" : "r/Denmark",
+            "loop_on_suggest" : false,
+            "plugin" : "reddit.reddit",
+            "short_desc" : "Denmark",
+            "target" : "favorite/Denmark"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 11776165657341157664,
+            "label" : "r/ProgrammerHumor",
+            "loop_on_suggest" : false,
+            "plugin" : "reddit.reddit",
+            "short_desc" : "Memes and jokes about everything programming and CS",
+            "target" : "favorite/ProgrammerHumor"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 10403129759277159357,
+            "label" : "r/smashbros",
+            "loop_on_suggest" : false,
+            "plugin" : "reddit.reddit",
+            "short_desc" : "Super Smash Bros.",
+            "target" : "favorite/smashbros"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 18168495158365668489, 4832091700890242902 ],
+            "search" : "con"
+         },
+         {
+            "items" : [ 6227540074285499569 ],
+            "search" : "conf re"
+         },
+         {
+            "items" : [
+               17235822082367308404,
+               10403129759277159357,
+               16051236832018442590,
+               11776165657341157664
+            ],
+            "search" : "r/"
+         },
+         {
+            "items" : [ 10668204258612926989 ],
+            "search" : "rel"
+         },
+         {
+            "items" : [ 799184153397335247 ],
+            "search" : "rel re"
+         },
+         {
+            "items" : [ 799184153397335247 ],
+            "search" : "rel red"
+         }
+      ]
+   }
+}
