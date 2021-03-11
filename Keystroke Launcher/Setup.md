@@ -1,10 +1,16 @@
 Extensions to create!
-- GIPHY searcher
-    WIP. Needs to copy the animated GIF
 - Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
+  WIP
+
+- Outlook mail searcher
+  https://github.com/sharkoz/keypirinha-outlook_calendar/blob/main/src/outlook_calendar.py
+
+- GIPHY searcher
+  WIP. Needs to copy the animated GIF
+
 - Spotify controller (https://alfred-spotify-mini-player.com/)
+
 - Evernote
-- Meme creator (if possible)
 
 Know how for KP:
 - Read from .ini-file:
