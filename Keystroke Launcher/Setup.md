@@ -17,7 +17,7 @@ Know how for KP:
  self.load_settings()
  Reads helloworld.ini
  settings.get_bool("keep_history", "main", self.DEFAULT_KEEP_HISTORY)
- under "main" in helloworld.ini, find the value "keep_history" and overwrite self.DEFAULT_KEEP_HISTORY
+ under "main" in helloworld.ini, find the value "keep_history" and overwrite - default is self.DEFAULT_KEEP_HISTORY
 
 - on_start(self):
   called after install
