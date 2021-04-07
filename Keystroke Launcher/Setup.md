@@ -5,6 +5,10 @@ Extensions to create!
 - Outlook mail searcher
   https://github.com/sharkoz/keypirinha-outlook_calendar/blob/main/src/outlook_calendar.py
 
+- LoR Helper
+  Cards by name
+  Deck by code
+
 - GIPHY searcher
   WIP. Needs to copy the animated GIF
 
