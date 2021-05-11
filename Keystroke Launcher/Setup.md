@@ -1,7 +1,4 @@
 Extensions to create!
-- Timezones/Converter (https://jhartman.pl/2016/12/14/alfred-3-workflow-time-zone/)
-  WIP
-
 - Outlook mail searcher
   https://github.com/sharkoz/keypirinha-outlook_calendar/blob/main/src/outlook_calendar.py
 
