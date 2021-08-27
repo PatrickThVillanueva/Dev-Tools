@@ -1,4 +1,4 @@
-$chocolateyAppList = "microsoft-windows-terminal,googlechrome,clipx,greenshot,keypirinha,postman,spotify,dotnetcore-sdk,dotnetcore-windowshosting,visualstudio2019professional,vscode"
+$chocolateyAppList = "microsoft-windows-terminal,googlechrome,clipx,greenshot,keypirinha,insomnia-rest-api-client,spotify,dotnetcore-sdk,dotnetcore-windowshosting,visualstudio2019professional,vscode"
 
 try{
         choco config get cacheLocation

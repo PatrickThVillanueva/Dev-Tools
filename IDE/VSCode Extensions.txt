@@ -1,0 +1,12 @@
+C#
+Color
+compareit
+Git History
+HTML Preview
+Mermaid Markdown Syntax Highlight
+Mermaid Preview
+Auto Rename Tag
+SQL Server (mssql)
+Python
+Bracket Pair Colorizer
+LaTeX Workshop
